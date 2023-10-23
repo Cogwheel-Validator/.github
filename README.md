@@ -7,6 +7,6 @@
   &nbsp; &nbsp;
   <a href="https://medium.com/@cogwheel_val"><img src="./src/medium-icon-svgrepo-com.svg" width="64" alt="Medium Blog"/></a>
   &nbsp; &nbsp;
-  <a href="mailto:info@cogwheel.digital"><img src="./src/mail-edit-svgrepo-com.svg" width="64" alt="Mail" /></a>
+  <a href="mailto:info@cogwheel.zone"><img src="./src/mail-edit-svgrepo-com.svg" width="64" alt="Mail" /></a>
 </p>
 
