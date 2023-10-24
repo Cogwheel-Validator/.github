@@ -1,7 +1,7 @@
 ![COGWHEEL github banner](./src/Cover.jpg)
 
 <p align="center">
-  <a href="https://github.com/Cogwheel-Validator"><img src="./src/github-svgrepo-com.svg" width="64" alt="Github Organization"/></a>
+  <a href="https://cogwheel.zone/"><img src="./src/website-ui-web-svgrepo-com.svg" width="64" alt="Website"/></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/cogwheel_val"><img src="./src/twitter-svgrepo-com.svg" width="64" alt="Twitter"/></a>
   &nbsp; &nbsp;
